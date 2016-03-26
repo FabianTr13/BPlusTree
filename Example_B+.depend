@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458974779 source:/home/arcatech/Example_B+/main.cpp
+	<iostream>
+	<array>
+
